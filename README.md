@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yas61625
 - 👀 I’m interested in programming , Linux OS
-- 🌱 I’m currently teaching  python
-- 💞️ I’m looking to collaborate on python project , linux administrator and also training project (freelancer projects). 
+- 🌱 I’m currently teaching  Machine Learning , Python , Linux , LPI 1 , LPI 2 , Security .
+- 💞️ I’m looking to collaborate on consulting projects , linux administrator and also training project (freelancer projects). 
 - 📫 How to reach me : shahrzadsalimi61@gmail.com
 
 <!---
